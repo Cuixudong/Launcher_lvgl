@@ -1,4 +1,7 @@
 # Launcher_lvgl
+
+基于LVGL V7设计的安卓风格桌面启动器，基于QT平台，所以你懂的，linux也能跑，arm也能跑
+
 Use LVGL make a launcher
 
 演示效果：https://www.bilibili.com/video/BV1v54y1t7rg/
